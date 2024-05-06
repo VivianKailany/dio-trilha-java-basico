@@ -1,4 +1,4 @@
-# Conta Terminal
+# Conta Banco
 
 ## Descrição
 Este programa solicita informações do usuário para criar uma conta bancária simulada.
