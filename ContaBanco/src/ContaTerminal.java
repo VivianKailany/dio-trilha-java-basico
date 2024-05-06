@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
 * <h1>Conta Banco</h1>
-* Classe que solicita informações do usuário sobre uma conta bancária
+* Conta Banco solicita informações do usuário sobre uma conta bancária
 * 
 * @author  Vivian Kailany
 * @version 1.0
