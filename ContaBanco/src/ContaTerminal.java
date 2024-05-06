@@ -6,7 +6,6 @@ import java.util.Scanner;
 * Conta Banco solicita informações do usuário sobre uma conta bancária
 * 
 * @author  Vivian Kailany
-* @version 1.0
 * @since   05/05/2024
 */
 
